@@ -1,0 +1,7 @@
+# Intelij Specific Files
+*.iml
+.idea
+
+# Build folders
+build
+target
